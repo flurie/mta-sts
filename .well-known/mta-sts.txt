@@ -1,0 +1,5 @@
+version: STSv1
+mode: none
+mx: flurie.net
+mx: *.flurie.net
+max_age: 604800
